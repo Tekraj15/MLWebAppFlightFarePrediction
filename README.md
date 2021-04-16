@@ -1,4 +1,4 @@
 # MLWebAppFlightFarePrediction
-Web App for ML Based Flight Fare Prediction using Machine Learning 
+Web App for Flight Fare Prediction of various Indian Airlines using Machine Learning 
 
 
